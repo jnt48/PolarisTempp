@@ -8,6 +8,7 @@
     "@uiw/react-codemirror": "^4.23.7",
     "codemirror": "^6.0.1",
     "cra-template": "1.2.0",
+    "firebase": "^11.1.0",
     "react": "^19.0.0",
     "react-codemirror2": "^8.0.0",
     "react-dom": "^19.0.0",
